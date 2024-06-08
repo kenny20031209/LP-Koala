@@ -1,0 +1,9 @@
+{
+    "title": "Testing project update",
+    "description": "Can change title, description, image, researchers, raters. Robust to resarcher and rater anomaly",
+    "image": "",
+    "researchers": [
+    ],
+    "raters": ["6620c319b46b5d3b4c54c63d"],
+    "__v": 0
+}

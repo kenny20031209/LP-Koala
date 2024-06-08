@@ -1,0 +1,134 @@
+{
+    "status": "success",
+    "results": 6,
+    "data": {
+        "data": [
+            {
+                "_id": "662ddf1a236be126bd425945",
+                "description": "Activity for gays",
+                "content": "asdsadsad",
+                "multipleChoiceQuestions": [
+                    {
+                        "_id": "66238ff3dfb853501b97cb6a",
+                        "description": "Which one is incorrect?",
+                        "choices": [
+                            {
+                                "_id": "662277fb6044720b6a427f93",
+                                "text": "Leon loves eating pork",
+                                "isCorrect": true,
+                                "__v": 0
+                            },
+                            {
+                                "_id": "662278376044720b6a427f95",
+                                "text": "Leon loves eating lamb",
+                                "isCorrect": false,
+                                "__v": 0
+                            },
+                            {
+                                "_id": "66238c56dfb853501b97cb64",
+                                "text": "Leon loves watching anime",
+                                "isCorrect": true,
+                                "__v": 0
+                            }
+                        ],
+                        "__v": 0
+                    }
+                ],
+                "shortAnswerQuestions": [
+                    {
+                        "_id": "66248dfffbdb35d20a38c5f7",
+                        "question": "What's your favorite food?",
+                        "answer": "All the foods except lamb",
+                        "__v": 0
+                    }
+                ],
+                "files": [],
+                "ratings": [],
+                "__v": 0
+            },
+            {
+                "_id": "662ddf29236be126bd425947",
+                "description": "Activity for gays",
+                "content": "asdsadsad",
+                "multipleChoiceQuestions": [
+                    {
+                        "_id": "66238ff3dfb853501b97cb6a",
+                        "description": "Which one is incorrect?",
+                        "choices": [
+                            {
+                                "_id": "662277fb6044720b6a427f93",
+                                "text": "Leon loves eating pork",
+                                "isCorrect": true,
+                                "__v": 0
+                            },
+                            {
+                                "_id": "662278376044720b6a427f95",
+                                "text": "Leon loves eating lamb",
+                                "isCorrect": false,
+                                "__v": 0
+                            },
+                            {
+                                "_id": "66238c56dfb853501b97cb64",
+                                "text": "Leon loves watching anime",
+                                "isCorrect": true,
+                                "__v": 0
+                            }
+                        ],
+                        "__v": 0
+                    }
+                ],
+                "shortAnswerQuestions": [
+                    {
+                        "_id": "66248dfffbdb35d20a38c5f7",
+                        "question": "What's your favorite food?",
+                        "answer": "All the foods except lamb",
+                        "__v": 0
+                    }
+                ],
+                "files": [],
+                "ratings": [],
+                "__v": 0
+            },
+            {
+                "_id": "662e07ab17d03de508c21392",
+                "description": "Activity for gays",
+                "content": "asdsadsad",
+                "multipleChoiceQuestions": [],
+                "shortAnswerQuestions": [],
+                "files": [],
+                "ratings": [],
+                "__v": 0
+            },
+            {
+                "_id": "662e08c817d03de508c213be",
+                "description": "asdasdasasdsaasdasd",
+                "content": "&lt;p>hello wodsadsadrldsadasddsadsadasdasdsad&lt;/p>",
+                "multipleChoiceQuestions": [],
+                "shortAnswerQuestions": [],
+                "files": [],
+                "ratings": [],
+                "__v": 0
+            },
+            {
+                "_id": "662e09c617d03de508c21417",
+                "description": "this is test",
+                "content": "&lt;p>hello world&lt;img src=\"http://localhost:3000/test/file/662e09c417d03de508c21413\" alt=\"download.jpeg\" data-href=\"http://localhost:3000/test/file/662e09c417d03de508c21413\" style=\"\"/>&lt;/p>",
+                "multipleChoiceQuestions": [],
+                "shortAnswerQuestions": [],
+                "files": [],
+                "ratings": [],
+                "__v": 0
+            },
+            {
+                "_id": "662e122e17d03de508c218e6",
+                "description": "test activity",
+                "content": "&lt;p>hello world&lt;img src=\"http://localhost:3000/test/file/662e11f417d03de508c218e2\" alt=\"download.jpeg\" data-href=\"http://localhost:3000/test/file/662e11f417d03de508c218e2\" style=\"width: 409.00px;height: 237.38px;\"/>&lt;/p>",
+                "multipleChoiceQuestions": [],
+                "shortAnswerQuestions": [],
+                "files": [],
+                "ratings": [],
+                "__v": 0
+            }
+        ]
+    }
+}

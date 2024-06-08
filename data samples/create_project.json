@@ -1,0 +1,6 @@
+{
+    "title" : "Testing",
+    "description" : "Gives raters some activities to familirise with the rating system.",
+    "image": "Base64 image string here.",
+    "raters": []
+}
