@@ -43,15 +43,6 @@ Currently, once a user logins, the login token will be expired in 5 minutes and 
 
 Since we deploy our project via Heruko for demonstration purposes for now, the domain name is https://lp-koala-frontend-1e10ff20d284.herokuapp.com/. This is subject to change later in the subject.<br>
 
-## Workflow
-#### Our project uses a Git Flow branching strategy to streamline development and ensure stability:<br>
-**main**: This is the primary branch where the source code of HEAD always reflects a production-ready state. It's central to our development and deployment process.<br>
-**frontend**: This branch is used for development specific to the frontend part of our project. Developers working on user interface components, client-side logic, and styling would use this branch.<br>
-**deploy-frontend**: This branch is used for deploying frontend changes. It acts as a staging or pre-production branch where frontend updates are tested in an environment that closely replicates the production setting before these changes are merged into the main branch and deployed to production.<br>
-**backend**: Similar to the frontend branch, this one focuses on backend development. This would include server-side logic, database management, API development, etc.<br>
-**trigger**: Specifically used for AI review processes, this branch handles tasks related to integrating, testing, or deploying AI models. It could be involved in automating reviews of code or content through AI tools.<br>
-**deployment**: Unlike the deploy-frontend branch, which specifically handles frontend deployments, this branch is used for deploying backend changes. It manages backend-specific configurations and deployment scripts, ensuring that backend updates can be rolled out smoothly and efficiently.
-
 ### Naming Conventions<br>
 **Branches**: Use a clear, descriptive name that reflects the feature or fix, prefixed accordingly: feature/, bugfix/, or release/. Example: feature/add-user-profiles.<br>
 **Commits**: Start with a verb in the imperative mood, followed by a concise description: "Add user login functionality".<br>
