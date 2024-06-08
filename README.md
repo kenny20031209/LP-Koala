@@ -13,14 +13,6 @@ The DLASSP project is conceived as a comprehensive and customisable LMS, tailore
 **Ensure Data Security and Integrity**: Prioritise the protection of sensitive information.<br>
 **Establish a Collaborative Environment**: Build forums where users can share insights, discuss evaluations, and contribute to the collective knowledge base.
 
-## Team Introduction
-**Weiyang Wu** - Product Owner: As the product owner, Weiyang is the visionary driving the project forward. He is responsible for defining the goals and creating the product roadmap.<br>
-**Haofeng Chen** - Scrum Master: Haofeng serves as the scrum master of team, acting as the glue that holds the team together by ensuring the Scrum framework is properly implemented for the maximum efficiency and effectiveness.<br>
-**Gaoyuan Ou** - Front-end Developer: Gaoyuan mainly focuses on the front end development.<br>
-**Mingxin Li** - UX/UI Designer: Mingxin crafts user-friendly and aesthetically pleasing interfaces.<br>
-**Yujin Du** - Back-end Developer: Yujin mainly focuses on the back end development.<br>
-**Qinglin Zhao** - Back-end Developer: Qinglin will be commited to the back end development together with Yujin.<br>
-
 ## Project Information
 
 ### Usage<br>
